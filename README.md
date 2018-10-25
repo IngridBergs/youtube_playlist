@@ -1,21 +1,16 @@
 # youtube_playlist
 
 
-- [Pearl Jam - Black]
-
- (https://www.youtube.com/watch?v=4q9UafsiQ6k)
+- [Pearl Jam - Black](https://www.youtube.com/watch?v=4q9UafsiQ6k)
 
 
-- [Foo Fighters - Pretender]
-
-(https://www.youtube.com/watch?v=4q9UafsiQ6k)
+- [Foo Fighters - Pretender](https://www.youtube.com/watch?v=4q9UafsiQ6k)
 
 
-- [Pink - What about us?]
-
- (https://www.youtube.com/watch?v=ClU3fctbGls)
+- [Pink - What about us?](https://www.youtube.com/watch?v=ClU3fctbGls)
 
 
-- [Justin Timberlake  - Mirrors]
+- [Justin Timberlake  - Mirrors](https://www.youtube.com/watch?v=uuZE_IRwLNI)
 
- (https://www.youtube.com/watch?v=uuZE_IRwLNI)
+
+- [Nirvana - The man who sold the world](https://www.youtube.com/watch?v=fregObNcHC8)
